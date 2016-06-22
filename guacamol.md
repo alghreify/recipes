@@ -1,7 +1,7 @@
 #Integredients
 -onion
 -avocado
--lemon
+-lime
 -salt
  
 #Instructions
